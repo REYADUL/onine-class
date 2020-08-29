@@ -1,0 +1,19 @@
+/* .flex{
+    display: flex;
+} */
+
+
+.content{
+    border:5px solid red;
+    color:green;
+    margin:10px;
+    padding:5px;
+    width:700px;
+    height: 300px;
+    
+}
+.button{
+    border-radius:5px;
+    border:1px solid gray;
+    cursor:pointer;
+}
